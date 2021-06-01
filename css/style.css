@@ -36,3 +36,14 @@ a:link {
     color: brown;
 
 }
+
+a:visited {
+    color:rgb(24, 209, 24);
+    font-weight: normal;
+}
+
+a:hover{
+    color: white;
+    text-decoration: underline;
+    background-color: black;
+}
