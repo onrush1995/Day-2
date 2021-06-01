@@ -24,3 +24,15 @@ cite{
     font-size: 1.5rem;
     font-weight: bold;
 }
+
+.bigbold {
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+a:link {
+    font-weight: bold;
+    text-decoration: none;
+    color: brown;
+
+}
