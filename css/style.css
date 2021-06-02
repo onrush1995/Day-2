@@ -30,15 +30,15 @@ cite{
     font-size: 1.3rem;
 }
 
-a:link {
+ul a:link {
     font-weight: bold;
     text-decoration: none;
-    color: brown;
-
+    color: lightblue;
+    font-size: 2rem;
 }
 
 a:visited {
-    color:rgb(24, 209, 24);
+    color:rgb(48, 224, 48);
     font-weight: normal;
 }
 
@@ -46,4 +46,13 @@ a:hover{
     color: white;
     text-decoration: underline;
     background-color: black;
+}
+
+p:hover {
+    background-color: black;
+    color: white;
+}
+
+a.harvard{
+    color: maroon;
 }
